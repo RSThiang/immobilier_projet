@@ -1,0 +1,47 @@
+body{
+    background-attachment: fixed;
+    background-image: url('../uploads/jpg/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ 
+.navbar img{    
+    padding-left: 300px;
+  }
+ .navbar .img img{
+    border: 1px solid orange;
+    height: 70px;
+    width: 100px;
+    border-radius: 50% ;
+}
+.navbar .active{
+    color: rgb(60, 175, 158);
+ } 
+.navbar a{
+    color: rgb(217, 215, 215);
+ }
+ .navbar  a:hover{
+    color: rgb(59, 111, 123);
+    
+ }
+ .navbar  .dropdown{
+    color: rgb(59, 111, 123);
+    
+ }
+ .navbar .dropdown-menu{
+    background-color:  rgb(55, 88, 89);
+    color: rgb(59, 111, 123);;
+ }
+
+  
+ 
+ 
+/* .nav-barr{
+    background-color: black;
+}
+.nav-barr img{
+    border-radius: 50%;
+    border: solid 2px black;
+    height: 20px;
+} */
